@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#fff5f5" stroke="#e74c3c" stroke-width="4"/>
+  
+  <!-- Clock face -->
+  <circle cx="100" cy="100" r="60" fill="white" stroke="#e74c3c" stroke-width="3"/>
+  
+  <!-- Clock hands -->
+  <line x1="100" y1="100" x2="100" y2="60" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="130" y2="100" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Clock center -->
+  <circle cx="100" cy="100" r="5" fill="#e74c3c"/>
+  
+  <!-- Wrench -->
+  <path d="M145 45 C138 52, 130 50, 125 45 L110 60 C108 62, 108 66, 110 68 C112 70, 116 70, 118 68 L133 53 C128 48, 126 40, 133 33 Z" fill="#e74c3c" stroke="#e74c3c" stroke-width="1"/>
+  
+  <!-- Lightning bolt -->
+  <path d="M80 50 L95 50 L85 75 L100 75 L70 100 L75 75 L60 75 Z" fill="#e74c3c"/>
+</svg>

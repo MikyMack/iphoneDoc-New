@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#fff5f5" stroke="#e74c3c" stroke-width="4"/>
+  
+  <!-- Delivery van -->
+  <path d="M40 110 L40 130 L150 130 L150 80 L120 80 L120 110 Z" fill="white" stroke="#e74c3c" stroke-width="3"/>
+  <rect x="40" y="80" width="80" height="30" fill="white" stroke="#e74c3c" stroke-width="3"/>
+  
+  <!-- Van windows -->
+  <rect x="45" y="85" width="30" height="15" fill="#e74c3c" rx="2"/>
+  
+  <!-- Wheels -->
+  <circle cx="60" cy="130" r="10" fill="#e74c3c"/>
+  <circle cx="60" cy="130" r="5" fill="white"/>
+  <circle cx="130" cy="130" r="10" fill="#e74c3c"/>
+  <circle cx="130" cy="130" r="5" fill="white"/>
+  
+  <!-- Mobile device with location pin -->
+  <rect x="100" y="55" width="20" height="35" rx="3" fill="#e74c3c"/>
+  <rect x="103" y="60" width="14" height="25" rx="1" fill="white"/>
+  <circle cx="110" cy="58" r="1" fill="white"/>
+  <path d="M160 65 C160 55, 140 55, 140 65 C140 75, 150 90, 150 90 C150 90, 160 75, 160 65 Z" fill="#e74c3c"/>
+  <circle cx="150" cy="65" r="5" fill="white"/>
+  
+  <!-- Directional arrows -->
+  <path d="M65 100 L85 100 L80 95 L85 100 L80 105" fill="none" stroke="#e74c3c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 115 L92 115 L97 110 L92 115 L97 120" fill="none" stroke="#e74c3c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
